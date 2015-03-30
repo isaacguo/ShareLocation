@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="@string/pref_EmailAddress"
+        android:title="Email Address"
+        android:summary=""
+        />
+    <EditTextPreference
+        android:key="@string/pref_UserAccount"
+        android:title="UserAccount"
+        android:summary=""
+        />
+    <EditTextPreference
+        android:key="@string/pref_Interval"
+        android:title="Interval"
+        android:summary=""
+        />
+</PreferenceScreen>
